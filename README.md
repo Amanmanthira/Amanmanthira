@@ -10,6 +10,8 @@
 <p align="left"> <a href="https://twitter.com/amanmanthira" target="blank"><img src="https://img.shields.io/twitter/follow/amanmanthira?logo=twitter&style=for-the-badge" alt="amanmanthira" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js**
+  
+- 👨🏻‍💻 I'm doing an internship **@Lakion**
 
 - 💬 Ask me about **MERN**
 
