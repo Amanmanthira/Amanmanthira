@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amanmanthiraamex@gmail.com**
 
-- ⚡ Fun fact **I once coded an entire project using only a keyboard missing the letter "e." It was a challenging exercise in creativity and problem-solving, and it taught me to appreciate the versatility of programming languages! 🎩🐇**
+- ⚡ Fun fact: **I once coded an entire project using only a keyboard missing the letter "e." It was a challenging exercise in creativity and problem-solving, and it taught me to appreciate the versatility of programming languages! 🎩🐇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
