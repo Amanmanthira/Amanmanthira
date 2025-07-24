@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=FFA6C9&center=true&vCenter=true&width=480&lines=Heyy+there+%F0%9F%91%8B%2C+I'm+Aman!;✨+FullStack+Magician+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;I+love+turning+ideas+into+reality+%F0%9F%92%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=FFA6C9&center=true&vCenter=true&width=540&lines=Heyy+there+%F0%9F%91%8B%2C+I'm+Aman!;✨+FullStack+Magician+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;I+love+turning+ideas+into+reality+%F0%9F%92%AF" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -26,16 +26,24 @@
   </a>
 </p>
 
-### 🌸 About Me
+<h2 align="center">🌸💻 About Me 💖✨</h2>
 
-- 🌱 I'm a **Software Engineer** who thrives in building full-stack magic.
-- 💬 Ask me about the **MERN Stack** — MongoDB, Express, React, Node.js 💻
-- 📫 Wanna say hi? Reach me at: **amanmanthiraamex@gmail.com** 💌
-- ⚡ **Fun Fact:**  
-  I once built a full project with a keyboard *missing the letter "e"* 😱  
-  It pushed my creativity to the limit, and showed me how flexible coding can be! 🎩✨🐇
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=24&duration=4000&pause=800&color=FFB6C1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Dreamer+%7C+Coder+%7C+Creator+of+Cute+Things+%F0%9F%8C%9F;Turning+code+into+magic+since+day+one!+%F0%9F%8E%84" alt="Typing SVG" />
+</p>
 
 ---
+
+🧁 **Hi, I'm Aman!** Full of curiosity, pastel code, and a hint of chaos. Here's a lil' more about me:
+
+- 🌱 I’m a **FullStack Engineer** who loves crafting magical and meaningful digital experiences.
+- 💬 You can ask me anything about the **MERN Stack** – MongoDB, Express, React, and Node.js 🚀
+- 📫 Want to sprinkle some words my way? Reach me at **amanmanthiraamex@gmail.com** 💌
+- ⚡ **Fun Fact:**  
+  I once built an entire app using a keyboard **missing the letter "e"** 😅  It was a wild ride in creativity, debugging spells, and pure determination 🎩🔮✨
+
+---
+
 
 ### 🤝 Let's Connect!
 
